@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Model
+/models/bge-m3-local/
+
+# Docker
+*.log
+*.pid
+
+# IDE
+.vscode/
+.idea/
